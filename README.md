@@ -14,3 +14,5 @@ Afterwards you can test the app with jpm run -b "C:\Program Files\Firefox Develo
 ##Known Problems
 - Only works with Firefox
 - sets the display-style to inline -> might break the layout
+- performance??
+- resizing??

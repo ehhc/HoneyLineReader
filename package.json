@@ -1,6 +1,6 @@
 {
   "title": "HoneyLine Reader",
-  "name": "HoneyLineReader",
+  "name": "honeylinereader",
   "version": "0.0.1",
   "description": "Colors the clicked selected text",
   "main": "index.js",
