@@ -1,0 +1,12 @@
+{
+  "title": "HoneyLine Reader",
+  "name": "HoneyLineReader",
+  "version": "0.0.1",
+  "description": "Colors the clicked selected text",
+  "main": "index.js",
+  "author": "ehhc",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
